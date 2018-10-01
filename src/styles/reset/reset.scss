@@ -1,0 +1,13 @@
+:root {
+    font-size: $baseFont;
+}
+
+body {
+    font-family: $font-family;
+    color: $bColor;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    line-height: 1.857;
+    font-weight: 400;
+}
